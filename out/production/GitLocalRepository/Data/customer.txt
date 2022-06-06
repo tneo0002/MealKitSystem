@@ -1,0 +1,9 @@
+123@student.monash.edu,1234567A,yaoxiang,chen,01112021,male,1234567899,7193,true
+1234@student.monash.edu,1234567A,zhiyan,wang,01112021,male,1234567899,7743,true
+tze@student.monash.edu,1234567ABC,tze,loon,01082011,male,1234567888,7650,true
+12345@student.monash.edu,dashd423AAA,hengru,jiang,01112021,male,2847654566,6808,true
+123456@student.monash.edu,1234567AAAA,bob,steven,01112021,male,1111111111,9393,true
+1234567@student.monash.edu,1234567A,test,one,01022022,male,1111111111,1107,true
+12345678@student.monash.edu,1234567A,test,one,01022022,male,1111111190,6242,true
+123456789@student.monash.edu,1234567A,zhiyan,test,01022022,male,1111111111,3309,true
+12345670@student.monash.edu,1234567A,test,one,01022022,male,1111111111,0530,true
